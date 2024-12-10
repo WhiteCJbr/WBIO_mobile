@@ -1,29 +1,13 @@
-# wbio_application
+# (WBIO_mobile) - Wikipedia Biológica mobile
 
-A new Flutter project.
+<div align='center'>
+<img src="https://github.com/user-attachments/assets/6fd5fea5-b323-43b1-aa64-2090fa09dc0b"/> <br>
+</div>
 
-## Getting Started
+<p align='center'><b>Este é um projeto acadêmico desenvolvido em Flutter/Dart !</b></p>
 
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/to/state-management-sample).
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Assets
-
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
-
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/to/resolution-aware-images).
-
-## Localization
-
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
-
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter apps](https://flutter.dev/to/internationalization).
+## Autores
+- Gustavo Moura de Sá
+- Bruno Tavares da Cunha
+- Eduardo Minghini Sales da Silva
+- Rafael Florindo Mello
